@@ -1,0 +1,542 @@
+Launching many instances of component 'csu.agent.fb.FireBrigadeAgent'...
+Launching instance 1...
+1578346200
+File not exists!
+#Times of iteration : 9
+my position: 149
+my cluster index is: 1
+success
+Launching instance 2...
+1309269755
+File exists!
+my position: 17428
+my cluster index is: 2
+success
+Launching instance 3...
+532053585
+File exists!
+my position: 63058
+my cluster index is: 0
+success
+Launching instance 4...
+Launching many instances of component 'csu.agent.fb.FireStationAgent'...
+Launching instance 1...
+37150
+CSU_YUNLU fire stasion agent is connected. [id=37150]
+success
+Launching instance 2...
+Launching many instances of component 'csu.agent.pf.PoliceForceAgent'...
+Launching instance 1...
+1493337878
+#Times of iteration : 3
+pf: Police force (1493337878)
+1
+CSU_YUNLU police force agent was connected. [id=1493337878, uniform=1]
+success
+Launching instance 2...
+243531792
+#Times of iteration : 3
+pf: Police force (243531792)
+0
+CSU_YUNLU police force agent was connected. [id=243531792, uniform=0]
+success
+Launching instance 3...
+Launching many instances of component 'csu.agent.pf.PoliceOfficeAgent'...
+Launching instance 1...
+31255
+CSU_YUNLU police office agent is connected. [id=31255]
+success
+Launching instance 2...
+Launching many instances of component 'csu.agent.at.AmbulanceTeamAgent'...
+Launching instance 1...
+903349416
+File not exists!
+#Times of iteration : 7
+My position : Road (17410)
+My cluster index is : 0
+success
+Launching instance 2...
+1267436679
+File exists!
+My position : Road (14881)
+My cluster index is : 2
+success
+Launching instance 3...
+1819115487
+File exists!
+My position : Road (14881)
+My cluster index is : 1
+success
+Launching instance 4...
+Launching many instances of component 'csu.agent.at.AmbulanceCentreAgent'...
+Launching instance 1...
+29991
+CSU_YUNLU ambulance center agent is connected. [id=29991]
+success
+Launching instance 2...
+All agents was connected.
+Ambulance team (903349416) time : 3  updateForSEARCHING
+Ambulance team (1819115487) time : 3  updateForSEARCHING
+Ambulance team (1267436679) time : 3  updateForSEARCHING
+Ambulance team (903349416) time : 4  updateForSEARCHING
+Ambulance team (1819115487) time : 4  updateForSEARCHING
+Ambulance team (1267436679) time : 4  updateForSEARCHING
+Ambulance team (903349416) time : 5  updateForSEARCHING
+Ambulance team (1819115487) time : 5  updateForSEARCHING
+Ambulance team (1267436679) time : 5  updateForSEARCHING
+Ambulance team (903349416) time : 6  updateForSEARCHING
+Ambulance team (1819115487) time : 6  updateForSEARCHING
+Ambulance team (1267436679)   Time : 6   remove building #1#Building (41076)
+Ambulance team (1267436679) time : 6  updateForSEARCHING
+Ambulance team (1819115487) time : 7  updateForSEARCHING
+Ambulance team (903349416) time : 7  updateForSEARCHING
+Ambulance team (1267436679) time : 7  updateForSEARCHING
+Ambulance team (1267436679) time : 8  updateForSEARCHING
+Ambulance team (1819115487)   Time : 8   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 8  updateForSEARCHING
+Ambulance team (903349416) time : 8  updateForSEARCHING
+stuckedagent=null
+Ambulance team (903349416) time : 9  updateForSEARCHING
+Ambulance team (1819115487)   Time : 9   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 9  updateForSEARCHING
+Ambulance team (1267436679) time : 9  updateForSEARCHING
+stuckedagent=null
+Ambulance team (903349416) time : 10  updateForSEARCHING
+Ambulance team (1819115487)   Time : 10   remove building #1#Building (31723)
+Ambulance team (1267436679) time : 10  updateForSEARCHING
+Ambulance team (1819115487) time : 10  updateForSEARCHING
+Ambulance team (903349416) time : 11  updateForSEARCHING
+Ambulance team (1819115487) time : 11  updateForSEARCHING
+Ambulance team (1267436679) time : 11  updateForSEARCHING
+Ambulance team (903349416) time : 12  updateForSEARCHING
+Ambulance team (1819115487) time : 12  updateForSEARCHING
+Ambulance team (1267436679) time : 12  updateForSEARCHING
+Ambulance team (903349416) time : 13  updateForSEARCHING
+Ambulance team (1819115487) time : 13  updateForSEARCHING
+Ambulance team (1267436679) time : 13  updateForSEARCHING
+stuckedagent=null
+Ambulance team (903349416) time : 14  updateForSEARCHING
+Ambulance team (1819115487) time : 14  updateForSEARCHING
+Ambulance team (1267436679) time : 14  updateForSEARCHING
+Ambulance team (903349416) time : 15  updateForSEARCHING
+Ambulance team (1819115487) time : 15  updateForSEARCHING
+Ambulance team (1267436679) time : 15  updateForSEARCHING
+Ambulance team (903349416) time : 16  updateForSEARCHING
+Ambulance team (1819115487) time : 16  updateForSEARCHING
+Ambulance team (1267436679) time : 16  updateForSEARCHING
+Ambulance team (903349416) time : 17  updateForSEARCHING
+stuckedagent=null
+Ambulance team (1819115487) time : 17  updateForSEARCHING
+Ambulance team (1267436679) time : 17  updateForSEARCHING
+stuckedagent=null
+Ambulance team (1819115487) time : 18  updateForSEARCHING
+Ambulance team (903349416) time : 18  updateForSEARCHING
+Ambulance team (1267436679) time : 18  updateForSEARCHING
+Ambulance team (1819115487) time : 19  updateForSEARCHING
+Ambulance team (903349416) time : 19  updateForSEARCHING
+Ambulance team (1267436679) time : 19  updateForSEARCHING
+Ambulance team (1819115487) time : 20  updateForSEARCHING
+Ambulance team (903349416) time : 20  updateForSEARCHING
+Ambulance team (1267436679) time : 20  updateForSEARCHING
+Ambulance team (1819115487) time : 21  updateForSEARCHING
+stuckedagent=null
+Ambulance team (903349416) time : 21  updateForSEARCHING
+Ambulance team (1267436679) time : 21  updateForSEARCHING
+Ambulance team (903349416) time : 22  updateForSEARCHING
+Ambulance team (1819115487) time : 22  updateForSEARCHING
+Ambulance team (1267436679) time : 22  updateForSEARCHING
+Ambulance team (903349416) time : 23  updateForSEARCHING
+Ambulance team (1819115487) time : 23  updateForSEARCHING
+Ambulance team (1267436679) time : 23  updateForSEARCHING
+stuckedagent=null
+stuckedagent=null
+Ambulance team (903349416) time : 24  updateForSEARCHING
+Ambulance team (1819115487) time : 24  updateForSEARCHING
+Ambulance team (1267436679) time : 24  updateForSEARCHING
+Ambulance team (903349416) time : 25  updateForSEARCHING
+Ambulance team (1267436679) time : 25  updateForSEARCHING
+Ambulance team (1819115487) time : 25  updateForSEARCHING
+stuckedagent=null
+Ambulance team (903349416) time : 26  updateForSEARCHING
+Ambulance team (1819115487) time : 26  updateForSEARCHING
+Ambulance team (1267436679) time : 26  updateForSEARCHING
+Ambulance team (903349416) time : 27  updateForSEARCHING
+stuckedagent=null
+Ambulance team (1819115487) time : 27  updateForSEARCHING
+Ambulance team (1267436679) time : 27  updateForSEARCHING
+Ambulance team (903349416) time : 28  updateForSEARCHING
+stuckedagent=null
+Ambulance team (1819115487) time : 28  updateForSEARCHING
+Ambulance team (1267436679) time : 28  updateForSEARCHING
+Ambulance team (1819115487) time : 29  updateForSEARCHING
+Ambulance team (903349416) time : 29  updateForSEARCHING
+stuckedagent=null
+Ambulance team (1267436679) time : 29  updateForSEARCHING
+Ambulance team (903349416) time : 30  updateForSEARCHING
+Ambulance team (1819115487) time : 30  updateForSEARCHING
+Ambulance team (1267436679) time : 30  updateForSEARCHING
+Ambulance team (903349416) time : 31  updateForSEARCHING
+Ambulance team (1819115487) time : 31  updateForSEARCHING
+Ambulance team (1267436679) time : 31  updateForSEARCHING
+me:903349416	targetHuman:Civilian (612419352)
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487) time : 32  updateForSEARCHING
+Ambulance team (1267436679) time : 32  updateForSEARCHING
+Ambulance team (1819115487) time : 33  updateForSEARCHING
+cyw111 no this targetHuman612419352	put in .mapOfTargetHumanLocked.size():1
+targetHuman:612419352 now is rescuing.
+Ambulance team (1267436679) time : 33  updateForSEARCHING
+Ambulance team (1819115487) time : 34  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1267436679) time : 34  updateForSEARCHING
+Ambulance team (1819115487) time : 35  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1267436679) time : 35  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487) time : 36  updateForSEARCHING
+Ambulance team (1267436679) time : 36  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487) time : 37  updateForSEARCHING
+Ambulance team (1267436679)   Time : 37   remove building #1#Building (64113)
+Ambulance team (1267436679) time : 37  updateForSEARCHING
+Ambulance team (1819115487) time : 38  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1267436679) time : 38  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487) time : 39  updateForSEARCHING
+Ambulance team (1267436679) time : 39  updateForSEARCHING
+Ambulance team (1819115487) time : 40  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1267436679) time : 40  updateForSEARCHING
+Ambulance team (1819115487) time : 41  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1267436679) time : 41  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487) time : 42  updateForSEARCHING
+Ambulance team (1267436679) time : 42  updateForSEARCHING
+Ambulance team (1819115487) time : 43  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1267436679) time : 43  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487) time : 44  updateForSEARCHING
+Ambulance team (1267436679) time : 44  updateForSEARCHING
+Ambulance team (1819115487) time : 45  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1267436679) time : 45  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487)   Time : 46   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 46  updateForSEARCHING
+Ambulance team (1267436679) time : 46  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487)   Time : 47   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 47  updateForSEARCHING
+Ambulance team (1267436679) time : 47  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487)   Time : 48   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 48  updateForSEARCHING
+Ambulance team (1267436679) time : 48  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487) time : 49  updateForSEARCHING
+Ambulance team (1267436679) time : 49  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487) time : 50  updateForSEARCHING
+Ambulance team (1267436679) time : 50  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487)   Time : 51   remove building #1#Building (60619)
+Ambulance team (1819115487) time : 51  updateForSEARCHING
+Ambulance team (1267436679) time : 51  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487) time : 52  updateForSEARCHING
+Ambulance team (1267436679) time : 52  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487) time : 53  updateForSEARCHING
+Ambulance team (1267436679) time : 53  updateForSEARCHING
+Ambulance team (1819115487) time : 54  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1267436679) time : 54  updateForSEARCHING
+Ambulance team (1819115487) time : 55  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1267436679) time : 55  updateForSEARCHING
+Ambulance team (1819115487) time : 56  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1267436679) time : 56  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487) time : 57  updateForSEARCHING
+Ambulance team (1267436679) time : 57  updateForSEARCHING
+Ambulance team (1819115487) time : 58  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1267436679) time : 58  updateForSEARCHING
+Ambulance team (1819115487) time : 59  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1267436679) time : 59  updateForSEARCHING
+Ambulance team (1819115487) time : 60  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1267436679) time : 60  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487) time : 61  updateForSEARCHING
+Ambulance team (1267436679) time : 61  updateForSEARCHING
+Ambulance team (1819115487) time : 62  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1267436679) time : 62  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487) time : 63  updateForSEARCHING
+Ambulance team (1267436679) time : 63  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487) time : 64  updateForSEARCHING
+Ambulance team (1267436679) time : 64  updateForSEARCHING
+Ambulance team (1819115487)   Time : 65   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 65  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1267436679) time : 65  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1267436679) time : 66  updateForSEARCHING
+Ambulance team (1819115487)   Time : 66   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 66  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487) time : 67  updateForSEARCHING
+Ambulance team (1267436679) time : 67  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487) time : 68  updateForSEARCHING
+Ambulance team (1267436679) time : 68  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487) time : 69  updateForSEARCHING
+Ambulance team (1267436679) time : 69  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487) time : 70  updateForSEARCHING
+Ambulance team (1267436679) time : 70  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487) time : 71  updateForSEARCHING
+Ambulance team (1267436679) time : 71  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487) time : 72  updateForSEARCHING
+Ambulance team (1267436679) time : 72  updateForSEARCHING
+Ambulance team (1819115487) time : 73  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1267436679) time : 73  updateForSEARCHING
+Ambulance team (1819115487) time : 74  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1267436679) time : 74  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487)   Time : 75   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 75  updateForSEARCHING
+Ambulance team (1267436679) time : 75  updateForSEARCHING
+targetHuman:612419352 now is rescuing.
+Ambulance team (1819115487)   Time : 76   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 76  updateForSEARCHING
+Ambulance team (1267436679) time : 76  updateForSEARCHING
+Ambulance team (1819115487) time : 77  updateForSEARCHING
+Ambulance team (1267436679) time : 77  updateForSEARCHING
+Ambulance team (1819115487) time : 78  updateForSEARCHING
+Ambulance team (1267436679) time : 78  updateForSEARCHING
+Ambulance team (1819115487) time : 79  updateForSEARCHING
+Ambulance team (1267436679) time : 79  updateForSEARCHING
+Ambulance team (1267436679) time : 80  updateForSEARCHING
+Ambulance team (1819115487) time : 80  updateForSEARCHING
+Ambulance team (1819115487) time : 81  updateForSEARCHING
+Ambulance team (1267436679) time : 81  updateForSEARCHING
+Ambulance team (1819115487) time : 82  updateForSEARCHING
+Ambulance team (1267436679) time : 82  updateForSEARCHING
+Ambulance team (1819115487) time : 83  updateForSEARCHING
+Ambulance team (1267436679) time : 83  updateForSEARCHING
+Ambulance team (1819115487) time : 84  updateForSEARCHING
+Ambulance team (1267436679) time : 84  updateForSEARCHING
+Ambulance team (1819115487)   Time : 85   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 85  updateForSEARCHING
+Ambulance team (1267436679) time : 85  updateForSEARCHING
+Ambulance team (1819115487)   Time : 86   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 86  updateForSEARCHING
+Ambulance team (1267436679) time : 86  updateForSEARCHING
+Ambulance team (1819115487) time : 87  updateForSEARCHING
+Ambulance team (1267436679) time : 87  updateForSEARCHING
+Ambulance team (1819115487) time : 88  updateForSEARCHING
+Ambulance team (1267436679) time : 88  updateForSEARCHING
+Ambulance team (903349416) time : 89  updateForSEARCHING
+Ambulance team (1819115487) time : 89  updateForSEARCHING
+Ambulance team (1267436679) time : 89  updateForSEARCHING
+Ambulance team (903349416) time : 90  updateForSEARCHING
+Ambulance team (1267436679) time : 90  updateForSEARCHING
+Ambulance team (1819115487) time : 90  updateForSEARCHING
+Ambulance team (903349416) time : 91  updateForSEARCHING
+Ambulance team (1819115487) time : 91  updateForSEARCHING
+Ambulance team (1267436679) time : 91  updateForSEARCHING
+Ambulance team (903349416) time : 92  updateForSEARCHING
+Ambulance team (1819115487) time : 92  updateForSEARCHING
+Ambulance team (1267436679) time : 92  updateForSEARCHING
+Ambulance team (903349416) time : 93  updateForSEARCHING
+Ambulance team (1819115487) time : 93  updateForSEARCHING
+Ambulance team (1267436679) time : 93  updateForSEARCHING
+Ambulance team (903349416) time : 94  updateForSEARCHING
+Ambulance team (1819115487) time : 94  updateForSEARCHING
+Ambulance team (1267436679) time : 94  updateForSEARCHING
+Ambulance team (903349416) time : 95  updateForSEARCHING
+Ambulance team (1819115487)   Time : 95   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 95  updateForSEARCHING
+Ambulance team (1267436679) time : 95  updateForSEARCHING
+Ambulance team (903349416) time : 96  updateForSEARCHING
+Ambulance team (1819115487)   Time : 96   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 96  updateForSEARCHING
+Ambulance team (1267436679) time : 96  updateForSEARCHING
+Ambulance team (903349416) time : 97  updateForSEARCHING
+Ambulance team (1819115487) time : 97  updateForSEARCHING
+Ambulance team (1267436679) time : 97  updateForSEARCHING
+Ambulance team (903349416) time : 98  updateForSEARCHING
+Ambulance team (1819115487) time : 98  updateForSEARCHING
+Ambulance team (1267436679) time : 98  updateForSEARCHING
+Ambulance team (903349416) time : 99  updateForSEARCHING
+Ambulance team (1819115487) time : 99  updateForSEARCHING
+Ambulance team (1267436679) time : 99  updateForSEARCHING
+Ambulance team (903349416) time : 100  updateForSEARCHING
+Ambulance team (1819115487) time : 100  updateForSEARCHING
+Ambulance team (1267436679) time : 100  updateForSEARCHING
+Ambulance team (1819115487) time : 101  updateForSEARCHING
+Ambulance team (903349416) time : 101  updateForSEARCHING
+Ambulance team (1267436679) time : 101  updateForSEARCHING
+Ambulance team (903349416) time : 102  updateForSEARCHING
+Ambulance team (1819115487) time : 102  updateForSEARCHING
+Ambulance team (1267436679) time : 102  updateForSEARCHING
+Ambulance team (1819115487) time : 103  updateForSEARCHING
+Ambulance team (903349416)   Time : 103   remove building #1#Building (64611)
+Ambulance team (903349416) time : 103  updateForSEARCHING
+Ambulance team (1267436679) time : 103  updateForSEARCHING
+Ambulance team (1819115487)   Time : 104   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 104  updateForSEARCHING
+Ambulance team (903349416) time : 104  updateForSEARCHING
+Ambulance team (1267436679) time : 104  updateForSEARCHING
+Ambulance team (903349416) time : 105  updateForSEARCHING
+Ambulance team (1819115487)   Time : 105   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 105  updateForSEARCHING
+Ambulance team (1267436679) time : 105  updateForSEARCHING
+Ambulance team (903349416) time : 106  updateForSEARCHING
+Ambulance team (1819115487)   Time : 106   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 106  updateForSEARCHING
+Ambulance team (1267436679) time : 106  updateForSEARCHING
+Ambulance team (903349416) time : 107  updateForSEARCHING
+Ambulance team (1819115487) time : 107  updateForSEARCHING
+Ambulance team (1267436679) time : 107  updateForSEARCHING
+Ambulance team (903349416) time : 108  updateForSEARCHING
+Ambulance team (1819115487) time : 108  updateForSEARCHING
+Ambulance team (1267436679) time : 108  updateForSEARCHING
+Ambulance team (903349416) time : 109  updateForSEARCHING
+Ambulance team (1819115487) time : 109  updateForSEARCHING
+Ambulance team (1267436679) time : 109  updateForSEARCHING
+Ambulance team (1819115487) time : 110  updateForSEARCHING
+Ambulance team (903349416) time : 110  updateForSEARCHING
+Ambulance team (1267436679) time : 110  updateForSEARCHING
+Ambulance team (903349416) time : 111  updateForSEARCHING
+Ambulance team (1819115487) time : 111  updateForSEARCHING
+Ambulance team (1267436679) time : 111  updateForSEARCHING
+Ambulance team (903349416) time : 112  updateForSEARCHING
+Ambulance team (1819115487) time : 112  updateForSEARCHING
+Ambulance team (1267436679) time : 112  updateForSEARCHING
+Ambulance team (903349416) time : 113  updateForSEARCHING
+Ambulance team (1819115487) time : 113  updateForSEARCHING
+Ambulance team (1267436679) time : 113  updateForSEARCHING
+Ambulance team (903349416) time : 114  updateForSEARCHING
+Ambulance team (1819115487) time : 114  updateForSEARCHING
+Ambulance team (1267436679) time : 114  updateForSEARCHING
+Ambulance team (903349416) time : 115  updateForSEARCHING
+Ambulance team (1819115487)   Time : 115   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 115  updateForSEARCHING
+Ambulance team (1267436679) time : 115  updateForSEARCHING
+Ambulance team (903349416) time : 116  updateForSEARCHING
+Ambulance team (1819115487)   Time : 116   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 116  updateForSEARCHING
+Ambulance team (1267436679) time : 116  updateForSEARCHING
+Ambulance team (903349416) time : 117  updateForSEARCHING
+Ambulance team (1819115487) time : 117  updateForSEARCHING
+Ambulance team (1267436679) time : 117  updateForSEARCHING
+Ambulance team (903349416) time : 118  updateForSEARCHING
+Ambulance team (1819115487) time : 118  updateForSEARCHING
+Ambulance team (1267436679) time : 118  updateForSEARCHING
+Ambulance team (903349416) time : 119  updateForSEARCHING
+Ambulance team (1819115487) time : 119  updateForSEARCHING
+Ambulance team (1267436679) time : 119  updateForSEARCHING
+Ambulance team (903349416) time : 120  updateForSEARCHING
+Ambulance team (1819115487) time : 120  updateForSEARCHING
+Ambulance team (1267436679) time : 120  updateForSEARCHING
+Ambulance team (903349416) time : 121  updateForSEARCHING
+Ambulance team (1819115487) time : 121  updateForSEARCHING
+Ambulance team (1267436679) time : 121  updateForSEARCHING
+Ambulance team (903349416) time : 122  updateForSEARCHING
+Ambulance team (1819115487) time : 122  updateForSEARCHING
+Ambulance team (1267436679) time : 122  updateForSEARCHING
+Ambulance team (903349416) time : 123  updateForSEARCHING
+Ambulance team (1819115487) time : 123  updateForSEARCHING
+Ambulance team (1267436679) time : 123  updateForSEARCHING
+Ambulance team (903349416) time : 124  updateForSEARCHING
+Ambulance team (1819115487) time : 124  updateForSEARCHING
+124, Fire brigade (532053585), is stucked
+Ambulance team (1267436679) time : 124  updateForSEARCHING
+Ambulance team (903349416) time : 125  updateForSEARCHING
+Ambulance team (1267436679) time : 125  updateForSEARCHING
+Ambulance team (1819115487)   Time : 125   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 125  updateForSEARCHING
+Ambulance team (903349416) time : 126  updateForSEARCHING
+Ambulance team (1819115487)   Time : 126   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 126  updateForSEARCHING
+Ambulance team (1267436679) time : 126  updateForSEARCHING
+Ambulance team (903349416) time : 127  updateForSEARCHING
+Ambulance team (1819115487) time : 127  updateForSEARCHING
+Ambulance team (1267436679) time : 127  updateForSEARCHING
+Ambulance team (903349416) time : 128  updateForSEARCHING
+Ambulance team (1819115487) time : 128  updateForSEARCHING
+Ambulance team (1267436679) time : 128  updateForSEARCHING
+Ambulance team (903349416) time : 129  updateForSEARCHING
+Ambulance team (1819115487) time : 129  updateForSEARCHING
+Ambulance team (1267436679) time : 129  updateForSEARCHING
+Ambulance team (903349416) time : 130  updateForSEARCHING
+Ambulance team (1819115487) time : 130  updateForSEARCHING
+Ambulance team (1267436679) time : 130  updateForSEARCHING
+Ambulance team (903349416) time : 131  updateForSEARCHING
+Ambulance team (1819115487) time : 131  updateForSEARCHING
+Ambulance team (1267436679) time : 131  updateForSEARCHING
+Ambulance team (903349416) time : 132  updateForSEARCHING
+Ambulance team (1819115487) time : 132  updateForSEARCHING
+Ambulance team (1267436679) time : 132  updateForSEARCHING
+Ambulance team (903349416) time : 133  updateForSEARCHING
+Ambulance team (1819115487) time : 133  updateForSEARCHING
+Ambulance team (1267436679) time : 133  updateForSEARCHING
+Ambulance team (903349416) time : 134  updateForSEARCHING
+Ambulance team (1819115487) time : 134  updateForSEARCHING
+Ambulance team (1267436679) time : 134  updateForSEARCHING
+Ambulance team (903349416) time : 135  updateForSEARCHING
+Ambulance team (1819115487)   Time : 135   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 135  updateForSEARCHING
+Ambulance team (1267436679) time : 135  updateForSEARCHING
+Ambulance team (903349416) time : 136  updateForSEARCHING
+Ambulance team (1819115487)   Time : 136   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 136  updateForSEARCHING
+Ambulance team (1267436679) time : 136  updateForSEARCHING
+Ambulance team (1267436679) time : 137  updateForSEARCHING
+Ambulance team (903349416) time : 137  updateForSEARCHING
+Ambulance team (1819115487) time : 137  updateForSEARCHING
+Ambulance team (903349416) time : 138  updateForSEARCHING
+Ambulance team (1819115487) time : 138  updateForSEARCHING
+Ambulance team (1267436679) time : 138  updateForSEARCHING
+Ambulance team (1819115487) time : 139  updateForSEARCHING
+Ambulance team (903349416) time : 139  updateForSEARCHING
+Ambulance team (1267436679) time : 139  updateForSEARCHING
+Ambulance team (903349416) time : 140  updateForSEARCHING
+Ambulance team (1819115487) time : 140  updateForSEARCHING
+Ambulance team (1267436679) time : 140  updateForSEARCHING
+Ambulance team (1819115487) time : 141  updateForSEARCHING
+Ambulance team (903349416) time : 141  updateForSEARCHING
+Ambulance team (1267436679) time : 141  updateForSEARCHING
+Ambulance team (903349416) time : 142  updateForSEARCHING
+Ambulance team (1819115487) time : 142  updateForSEARCHING
+Ambulance team (1267436679) time : 142  updateForSEARCHING
+Ambulance team (903349416) time : 143  updateForSEARCHING
+Ambulance team (1819115487) time : 143  updateForSEARCHING
+Ambulance team (1267436679) time : 143  updateForSEARCHING
+Ambulance team (1819115487)   Time : 144   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 144  updateForSEARCHING
+Ambulance team (903349416) time : 144  updateForSEARCHING
+Ambulance team (1267436679) time : 144  updateForSEARCHING
+Ambulance team (1819115487)   Time : 145   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 145  updateForSEARCHING
+Ambulance team (903349416) time : 145  updateForSEARCHING
+Ambulance team (1267436679) time : 145  updateForSEARCHING
+Ambulance team (903349416) time : 146  updateForSEARCHING
+Ambulance team (1819115487)   Time : 146   remove building #1#Building (31723)
+Ambulance team (1819115487) time : 146  updateForSEARCHING
+Ambulance team (1267436679) time : 146  updateForSEARCHING

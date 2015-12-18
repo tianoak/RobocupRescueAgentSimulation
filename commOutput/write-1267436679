@@ -1,0 +1,162 @@
+In time: 33 agent: Police force (1267436679) write in createAddPort, BurningBuildings
+priority = 5 channel = 2
+numberToSend = 1
+uniform = 124, id = 64688
+fieryness = 2
+temperature = 671
+
+In time: 33 agent: Police force (1267436679) write in createAddPort, BurningBuildings
+priority = 5 channel = 1
+numberToSend = 1
+uniform = 124, id = 64688
+fieryness = 2
+temperature = 671
+
+In time: 33 agent: Police force (1267436679) write in createAddPort, BurningBuildings
+priority = 5 channel = 0
+numberToSend = 1
+uniform = 124, id = 64688
+fieryness = 2
+temperature = 671
+
+In time: 36 agent: Police force (1267436679) write in createAddPort, BurningBuildings
+priority = 5 channel = 2
+numberToSend = 2
+uniform = 125, id = 64689
+fieryness = 2
+temperature = 574
+uniform = 33, id = 32573
+fieryness = 1
+temperature = 260
+
+In time: 36 agent: Police force (1267436679) write in createAddPort, BurningBuildings
+priority = 5 channel = 1
+numberToSend = 2
+uniform = 125, id = 64689
+fieryness = 2
+temperature = 574
+uniform = 33, id = 32573
+fieryness = 1
+temperature = 260
+
+In time: 36 agent: Police force (1267436679) write in createAddPort, BurningBuildings
+priority = 5 channel = 0
+numberToSend = 2
+uniform = 125, id = 64689
+fieryness = 2
+temperature = 574
+uniform = 33, id = 32573
+fieryness = 1
+temperature = 260
+
+In time: 47 agent: Police force (1267436679) write in createAddPort, BurningBuildings
+priority = 5 channel = 2
+numberToSend = 1
+uniform = 123, id = 64671
+fieryness = 1
+temperature = 51
+
+In time: 47 agent: Police force (1267436679) write in createAddPort, BurningBuildings
+priority = 5 channel = 1
+numberToSend = 1
+uniform = 123, id = 64671
+fieryness = 1
+temperature = 51
+
+In time: 47 agent: Police force (1267436679) write in createAddPort, BurningBuildings
+priority = 5 channel = 0
+numberToSend = 1
+uniform = 123, id = 64671
+fieryness = 1
+temperature = 51
+
+In time: 50 agent: Police force (1267436679) write in createAddPort, BurningBuildings
+priority = 5 channel = 2
+numberToSend = 1
+uniform = 37, id = 34423
+fieryness = 1
+temperature = 77
+
+In time: 50 agent: Police force (1267436679) write in createAddPort, BurningBuildings
+priority = 5 channel = 1
+numberToSend = 1
+uniform = 37, id = 34423
+fieryness = 1
+temperature = 77
+
+In time: 50 agent: Police force (1267436679) write in createAddPort, BurningBuildings
+priority = 5 channel = 0
+numberToSend = 1
+uniform = 37, id = 34423
+fieryness = 1
+temperature = 77
+
+In time: 51 agent: Police force (1267436679) write in createAddPort, BurningBuildings
+priority = 5 channel = 2
+numberToSend = 1
+uniform = 20, id = 27126
+fieryness = 1
+temperature = 50
+
+In time: 51 agent: Police force (1267436679) write in createAddPort, BurningBuildings
+priority = 5 channel = 1
+numberToSend = 1
+uniform = 20, id = 27126
+fieryness = 1
+temperature = 50
+
+In time: 51 agent: Police force (1267436679) write in createAddPort, BurningBuildings
+priority = 5 channel = 0
+numberToSend = 1
+uniform = 20, id = 27126
+fieryness = 1
+temperature = 50
+
+In time: 51 agent: Police force (1267436679) write in createAddPort, COllapsedBuildings
+priority = 10 channel = 0
+numberToSend = 1
+uniform = 18
+fieryness = 8
+
+In time: 54 agent: Police force (1267436679) write in createAddPort, BurningBuildings
+priority = 5 channel = 2
+numberToSend = 1
+uniform = 5, id = 19274
+fieryness = 3
+temperature = 705
+
+In time: 54 agent: Police force (1267436679) write in createAddPort, BurningBuildings
+priority = 5 channel = 1
+numberToSend = 1
+uniform = 5, id = 19274
+fieryness = 3
+temperature = 705
+
+In time: 54 agent: Police force (1267436679) write in createAddPort, BurningBuildings
+priority = 5 channel = 0
+numberToSend = 1
+uniform = 5, id = 19274
+fieryness = 3
+temperature = 705
+
+In time: 61 agent: Police force (1267436679) write in createAddPort, BurningBuildings
+priority = 5 channel = 2
+numberToSend = 1
+uniform = 32, id = 32354
+fieryness = 3
+temperature = 977
+
+In time: 61 agent: Police force (1267436679) write in createAddPort, BurningBuildings
+priority = 5 channel = 1
+numberToSend = 1
+uniform = 32, id = 32354
+fieryness = 3
+temperature = 977
+
+In time: 61 agent: Police force (1267436679) write in createAddPort, BurningBuildings
+priority = 5 channel = 0
+numberToSend = 1
+uniform = 32, id = 32354
+fieryness = 3
+temperature = 977
+

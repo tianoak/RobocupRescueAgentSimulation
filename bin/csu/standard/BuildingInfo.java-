@@ -1,0 +1,157 @@
+package csu.standard;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import rescuecore2.standard.entities.AmbulanceCentre;
+import rescuecore2.standard.entities.Building;
+import rescuecore2.standard.entities.FireStation;
+import rescuecore2.standard.entities.PoliceOffice;
+import rescuecore2.standard.entities.Refuge;
+import rescuecore2.standard.entities.StandardEntityConstants.Fieryness;
+import csu.model.AdvancedWorldModel;
+
+public class BuildingInfo {
+
+	private Building building;
+
+	public Building getBuilding() {
+		return building;
+	}
+	private List<Building> negihbours;
+
+	public static final int MAX_DIST_NEAR_BUILDINGS = 7000;
+	private static final int MIN_HEATING_VALUE = 0;
+
+	int latestTemperature;
+	int temperatureUpdateTime;
+
+	public BuildingInfo(Building building) {
+
+		this.building = building;
+
+		if (building.isTemperatureDefined()) {
+			latestTemperature = building.getTemperature();
+		} else {
+			latestTemperature = 0;
+		}
+	}
+
+	public ArrayList<Building> inDangerNeighbors() {
+
+		if (building.getFieryness() == 4 || building.getFieryness() == 0
+				|| !building.isFierynessDefined()) {
+			return null;
+		}
+
+		ArrayList<Building> ret = new ArrayList<Building>();
+
+		if (negihbours == null)
+			System.err.println("The Building Have No Neighbours");
+
+		for (Building b : negihbours) {
+			if (b.getFieryness() == 0) {
+				if (!(b instanceof Refuge) && !(b instanceof AmbulanceCentre)
+						&& !(b instanceof PoliceOffice)
+						&& !(b instanceof FireStation)) {
+					ret.add(b);
+				}
+			} else if (b.getFieryness() >= 4 && b.getFieryness() <= 7) {
+				ret.add(b);
+			}
+		}
+		return ret;
+
+	}
+
+	public boolean isBurning() {
+		if (!building.isFierynessDefined())
+			return false;
+		return (1 <= building.getFieryness() && building.getFieryness() <= 3);
+	}
+
+	public List<Building> getNeighbours(AdvancedWorldModel world) {
+		if (negihbours == null) {
+			negihbours = new ArrayList<Building>();
+			negihbours = world.findNearBuildings(building,
+					MAX_DIST_NEAR_BUILDINGS);
+			return negihbours;
+		}
+		return negihbours;
+	}
+
+	public boolean isNeighbourBuilding(Building building, AdvancedWorldModel world) {
+		if (negihbours == null) {
+			negihbours = getNeighbours(world);
+		}
+		if (!negihbours.isEmpty()) {
+			for (Building neighbour : negihbours) {
+				if (building.getID().getValue() == neighbour.getID().getValue()) {
+					return true;
+				}
+			}
+		}
+		return false;
+	}
+
+	public int getLatestTemperature() {
+		return latestTemperature;
+	}
+
+	public void setLatestTemperature(int latestTemperature) {
+		this.latestTemperature = latestTemperature;
+	}
+
+	public boolean isHeating() {
+		if (building.isFierynessDefined()
+				&& building.getFierynessEnum() != Fieryness.BURNT_OUT) {
+			int d;
+			boolean heating;
+
+			d = getTemperatureDifference();
+			heating = (d > MIN_HEATING_VALUE);
+			return heating;
+		} else {
+			return false;
+		}
+	}
+
+	public double getHeatingSpeed(int timeStep) {
+		int timeDifference;
+
+		timeDifference = timeStep - temperatureUpdateTime;
+		if (timeDifference > 0) {
+			int temperatureDifference;
+			double r;
+
+			temperatureDifference = getCurrentTemperature() - latestTemperature;
+			r = (double) temperatureDifference / timeDifference;
+			return r;
+		} else {
+			return 0;
+		}
+	}
+
+	public int getCurrentTemperature() {
+		if (building.isTemperatureDefined()) {
+			return building.getTemperature();
+		} else {
+			return 0;
+		}
+	}
+
+	public int getTemperatureDifference() {
+		int temperature, difference;
+
+		temperature = getCurrentTemperature();
+		difference = temperature - latestTemperature;
+		return difference;
+	}
+
+	public void updateTemperature(int timeStep) {
+		if (building.isTemperatureDefined()) {
+			latestTemperature = building.getTemperature();
+			temperatureUpdateTime = timeStep;
+		}
+	}
+}

@@ -1,0 +1,382 @@
+In time: 6 agent: Fire brigade (1578346200) write in createPort, CriticalArea
+priority = 10 channel = 1
+numberToSend = 1
+areaMraker = 1
+areaUniform = 42
+
+In time: 10 agent: Fire brigade (1578346200) write in createPort, CriticalArea
+priority = 10 channel = 1
+numberToSend = 1
+areaMraker = 1
+areaUniform = 299
+
+In time: 15 agent: Fire brigade (1578346200) write in createWaterPort, WaterPort
+priority = 3 channel = 2
+targetUniform = 34, targetId = 32874
+waterPower = 6000
+firstSendTime = 15
+
+In time: 15 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 2
+numberToSend = 1
+uniform = 41, id = 35505
+fieryness = 1
+temperature = 49
+
+In time: 15 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 1
+numberToSend = 1
+uniform = 41, id = 35505
+fieryness = 1
+temperature = 49
+
+In time: 15 agent: Fire brigade (1578346200) write in createPort, CriticalArea
+priority = 10 channel = 1
+numberToSend = 5
+areaMraker = 1
+areaUniform = 51
+areaMraker = 1
+areaUniform = 82
+areaMraker = 1
+areaUniform = 84
+areaMraker = 1
+areaUniform = 23
+areaMraker = 1
+areaUniform = 69
+
+In time: 15 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 0
+numberToSend = 1
+uniform = 41, id = 35505
+fieryness = 1
+temperature = 49
+
+In time: 16 agent: Fire brigade (1578346200) write in createAddPort, ExtinguishedBuilding
+priority = 9 channel = 2
+numberToSend = 1
+uniform = 34
+fieryness = 5
+temperature = 44
+
+In time: 16 agent: Fire brigade (1578346200) write in createAddPort, ExtinguishedBuilding
+priority = 9 channel = 1
+numberToSend = 1
+uniform = 34
+fieryness = 5
+temperature = 44
+
+In time: 16 agent: Fire brigade (1578346200) write in createAddPort, ExtinguishedBuilding
+priority = 9 channel = 0
+numberToSend = 1
+uniform = 34
+fieryness = 5
+temperature = 44
+
+In time: 17 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 2
+numberToSend = 1
+uniform = 34, id = 32874
+fieryness = 1
+temperature = 69
+
+In time: 17 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 1
+numberToSend = 1
+uniform = 34, id = 32874
+fieryness = 1
+temperature = 69
+
+In time: 17 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 0
+numberToSend = 1
+uniform = 34, id = 32874
+fieryness = 1
+temperature = 69
+
+In time: 18 agent: Fire brigade (1578346200) write in createWaterPort, WaterPort
+priority = 3 channel = 2
+targetUniform = 34, targetId = 32874
+waterPower = 6000
+firstSendTime = 18
+
+In time: 21 agent: Fire brigade (1578346200) write in createWaterPort, WaterPort
+priority = 3 channel = 2
+targetUniform = 34, targetId = 32874
+waterPower = 6000
+firstSendTime = 21
+
+In time: 21 agent: Fire brigade (1578346200) write in createPort, CriticalArea
+priority = 10 channel = 1
+numberToSend = 2
+areaMraker = 1
+areaUniform = 60
+areaMraker = 1
+areaUniform = 28
+
+In time: 24 agent: Fire brigade (1578346200) write in createWaterPort, WaterPort
+priority = 3 channel = 2
+targetUniform = 34, targetId = 32874
+waterPower = 6000
+firstSendTime = 24
+
+In time: 27 agent: Fire brigade (1578346200) write in createWaterPort, WaterPort
+priority = 3 channel = 2
+targetUniform = 34, targetId = 32874
+waterPower = 6000
+firstSendTime = 27
+
+In time: 28 agent: Fire brigade (1578346200) write in createPort, CriticalArea
+priority = 10 channel = 1
+numberToSend = 2
+areaMraker = 1
+areaUniform = 29
+areaMraker = 1
+areaUniform = 74
+
+In time: 31 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 2
+numberToSend = 1
+uniform = 93, id = 60795
+fieryness = 1
+temperature = 509
+
+In time: 31 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 1
+numberToSend = 1
+uniform = 93, id = 60795
+fieryness = 1
+temperature = 509
+
+In time: 31 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 0
+numberToSend = 1
+uniform = 93, id = 60795
+fieryness = 1
+temperature = 509
+
+In time: 32 agent: Fire brigade (1578346200) write in createWaterPort, WaterPort
+priority = 3 channel = 2
+targetUniform = 109, targetId = 64132
+waterPower = 6000
+firstSendTime = 32
+
+In time: 32 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 2
+numberToSend = 2
+uniform = 22, id = 27601
+fieryness = 2
+temperature = 521
+uniform = 8, id = 19836
+fieryness = 1
+temperature = 243
+
+In time: 32 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 1
+numberToSend = 2
+uniform = 22, id = 27601
+fieryness = 2
+temperature = 521
+uniform = 8, id = 19836
+fieryness = 1
+temperature = 243
+
+In time: 32 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 0
+numberToSend = 2
+uniform = 22, id = 27601
+fieryness = 2
+temperature = 521
+uniform = 8, id = 19836
+fieryness = 1
+temperature = 243
+
+In time: 34 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 2
+numberToSend = 1
+uniform = 101, id = 64106
+fieryness = 1
+temperature = 300
+
+In time: 34 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 1
+numberToSend = 1
+uniform = 101, id = 64106
+fieryness = 1
+temperature = 300
+
+In time: 34 agent: Fire brigade (1578346200) write in createRemovePortFor, BuriedHumans
+priority = 50 channel = 1
+numberToSend = 1
+humanId = 1493337878
+In time: 34 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 0
+numberToSend = 1
+uniform = 101, id = 64106
+fieryness = 1
+temperature = 300
+
+In time: 34 agent: Fire brigade (1578346200) write in createRemovePortFor, BuriedHumans
+priority = 50 channel = 0
+numberToSend = 1
+humanId = 1493337878
+In time: 37 agent: Fire brigade (1578346200) write in createWaterPort, WaterPort
+priority = 3 channel = 2
+targetUniform = 107, targetId = 64125
+waterPower = 6000
+firstSendTime = 37
+
+In time: 38 agent: Fire brigade (1578346200) write in createPort, CriticalArea
+priority = 10 channel = 1
+numberToSend = 2
+areaMraker = 1
+areaUniform = 21
+areaMraker = 1
+areaUniform = 47
+
+In time: 40 agent: Fire brigade (1578346200) write in createWaterPort, WaterPort
+priority = 3 channel = 2
+targetUniform = 107, targetId = 64125
+waterPower = 6000
+firstSendTime = 40
+
+In time: 40 agent: Fire brigade (1578346200) write in createPort, CriticalArea
+priority = 10 channel = 1
+numberToSend = 1
+areaMraker = 1
+areaUniform = 64
+
+In time: 43 agent: Fire brigade (1578346200) write in createWaterPort, WaterPort
+priority = 3 channel = 2
+targetUniform = 107, targetId = 64125
+waterPower = 6000
+firstSendTime = 43
+
+In time: 47 agent: Fire brigade (1578346200) write in createWaterPort, WaterPort
+priority = 3 channel = 2
+targetUniform = 119, targetId = 64639
+waterPower = 6000
+firstSendTime = 47
+
+In time: 47 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 2
+numberToSend = 2
+uniform = 98, id = 64090
+fieryness = 2
+temperature = 321
+uniform = 119, id = 64639
+fieryness = 1
+temperature = 248
+
+In time: 47 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 1
+numberToSend = 2
+uniform = 98, id = 64090
+fieryness = 2
+temperature = 321
+uniform = 119, id = 64639
+fieryness = 1
+temperature = 248
+
+In time: 47 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 0
+numberToSend = 2
+uniform = 98, id = 64090
+fieryness = 2
+temperature = 321
+uniform = 119, id = 64639
+fieryness = 1
+temperature = 248
+
+In time: 50 agent: Fire brigade (1578346200) write in createWaterPort, WaterPort
+priority = 3 channel = 2
+targetUniform = 119, targetId = 64639
+waterPower = 6000
+firstSendTime = 50
+
+In time: 51 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 2
+numberToSend = 1
+uniform = 20, id = 27126
+fieryness = 1
+temperature = 50
+
+In time: 51 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 1
+numberToSend = 1
+uniform = 20, id = 27126
+fieryness = 1
+temperature = 50
+
+In time: 51 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 0
+numberToSend = 1
+uniform = 20, id = 27126
+fieryness = 1
+temperature = 50
+
+In time: 53 agent: Fire brigade (1578346200) write in createWaterPort, WaterPort
+priority = 3 channel = 2
+targetUniform = 119, targetId = 64639
+waterPower = 6000
+firstSendTime = 53
+
+In time: 56 agent: Fire brigade (1578346200) write in createWaterPort, WaterPort
+priority = 3 channel = 2
+targetUniform = 37, targetId = 34423
+waterPower = 6000
+firstSendTime = 56
+
+In time: 59 agent: Fire brigade (1578346200) write in createWaterPort, WaterPort
+priority = 3 channel = 2
+targetUniform = 37, targetId = 34423
+waterPower = 6000
+firstSendTime = 59
+
+In time: 60 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 2
+numberToSend = 1
+uniform = 96, id = 64083
+fieryness = 1
+temperature = 48
+
+In time: 60 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 1
+numberToSend = 1
+uniform = 96, id = 64083
+fieryness = 1
+temperature = 48
+
+In time: 60 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 0
+numberToSend = 1
+uniform = 96, id = 64083
+fieryness = 1
+temperature = 48
+
+In time: 64 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 2
+numberToSend = 1
+uniform = 97, id = 64089
+fieryness = 1
+temperature = 228
+
+In time: 64 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 1
+numberToSend = 1
+uniform = 97, id = 64089
+fieryness = 1
+temperature = 228
+
+In time: 64 agent: Fire brigade (1578346200) write in createAddPort, BurningBuildings
+priority = 5 channel = 0
+numberToSend = 1
+uniform = 97, id = 64089
+fieryness = 1
+temperature = 228
+
+In time: 65 agent: Fire brigade (1578346200) write in createAddPort, COllapsedBuildings
+priority = 10 channel = 0
+numberToSend = 1
+uniform = 105
+fieryness = 8
+

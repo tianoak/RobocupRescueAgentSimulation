@@ -1,0 +1,9 @@
+package csu.agent.pf.clearStrategy;
+
+public enum PfClearStrategyEnum {
+	AROUND_BASED_STRATEGY,
+	CENTER_AREA_BASED_STRATEGY,
+	CENTER_LINE_BASED_STRATEGY,
+	POS_BASED_STRATEGY,
+	TANGENT_BASED_STRATEGY
+}

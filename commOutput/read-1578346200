@@ -1,0 +1,573 @@
+In time: 4 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 903349416, sendTime = 3, numberToRead = 1
+uniform = 18, id = 25809
+fieryness = 1
+temperature = 92
+
+
+In time: 4 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1493337878, sendTime = 3, numberToRead = 1
+uniform = 18, id = 25809
+fieryness = 1
+temperature = 92
+
+
+In time: 14 agent: Fire brigade (1578346200) read in createWaterPort, WaterPort from channel: 2
+sender: 1309269755, senderTime = 13
+uniform = 103, id = 64109
+waterPower = 6000
+firstSendTime = 13
+
+
+In time: 15 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 903349416, sendTime = 14, numberToRead = 1
+uniform = 34, id = 32874
+fieryness = 1
+temperature = 50
+
+
+In time: 15 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 243531792, sendTime = 14, numberToRead = 1
+uniform = 105, id = 64113
+fieryness = 1
+temperature = 59
+
+
+In time: 16 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 903349416, sendTime = 15, numberToRead = 1
+uniform = 41, id = 35505
+fieryness = 1
+temperature = 49
+
+
+In time: 16 agent: Fire brigade (1578346200) read in createWaterPort, WaterPort from channel: 2
+sender: 1578346200, senderTime = 15
+uniform = 34, id = 32874
+waterPower = 6000
+firstSendTime = 15
+
+
+In time: 16 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1578346200, sendTime = 15, numberToRead = 1
+uniform = 41, id = 35505
+fieryness = 1
+temperature = 49
+
+
+In time: 17 agent: Fire brigade (1578346200) read in createAddPort, ExtinguishedBuilding
+read from channel: 0
+sender: 1578346200, sendTime = 16, numberToRead = 1
+uniform = 34, id = 32874
+fieryness = 5
+temperature = 44
+
+
+In time: 17 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1493337878, sendTime = 16, numberToRead = 1
+uniform = 110, id = 64133
+fieryness = 1
+temperature = 51
+
+
+In time: 17 agent: Fire brigade (1578346200) read in createAddPort, ExtinguishedBuilding
+read from channel: 2
+sender: 1578346200, sendTime = 16, numberToRead = 1
+uniform = 34, id = 32874
+fieryness = 5
+temperature = 44
+
+
+In time: 18 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1578346200, sendTime = 17, numberToRead = 1
+uniform = 34, id = 32874
+fieryness = 1
+temperature = 69
+
+
+In time: 18 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 0
+sender: 1578346200, sendTime = 17, numberToRead = 1
+uniform = 34, id = 32874
+fieryness = 1
+temperature = 69
+
+
+In time: 19 agent: Fire brigade (1578346200) read in createWaterPort, WaterPort from channel: 2
+sender: 1578346200, senderTime = 18
+uniform = 34, id = 32874
+waterPower = 6000
+firstSendTime = 18
+
+
+In time: 20 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1493337878, sendTime = 19, numberToRead = 1
+uniform = 100, id = 64099
+fieryness = 1
+temperature = 101
+
+
+In time: 22 agent: Fire brigade (1578346200) read in createWaterPort, WaterPort from channel: 2
+sender: 1578346200, senderTime = 21
+uniform = 34, id = 32874
+waterPower = 6000
+firstSendTime = 21
+
+
+In time: 23 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1493337878, sendTime = 22, numberToRead = 1
+uniform = 83, id = 56911
+fieryness = 1
+temperature = 48
+
+
+In time: 25 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 243531792, sendTime = 24, numberToRead = 1
+uniform = 108, id = 64126
+fieryness = 1
+temperature = 56
+
+
+In time: 25 agent: Fire brigade (1578346200) read in createWaterPort, WaterPort from channel: 2
+sender: 1578346200, senderTime = 24
+uniform = 34, id = 32874
+waterPower = 6000
+firstSendTime = 24
+
+
+In time: 26 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1493337878, sendTime = 25, numberToRead = 1
+uniform = 109, id = 64132
+fieryness = 1
+temperature = 62
+
+
+In time: 26 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 243531792, sendTime = 25, numberToRead = 1
+uniform = 128, id = 65236
+fieryness = 1
+temperature = 51
+
+
+In time: 26 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1309269755, sendTime = 25, numberToRead = 1
+uniform = 128, id = 65236
+fieryness = 1
+temperature = 51
+
+
+In time: 27 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 532053585, sendTime = 26, numberToRead = 1
+uniform = 121, id = 64646
+fieryness = 1
+temperature = 108
+
+
+In time: 28 agent: Fire brigade (1578346200) read in createWaterPort, WaterPort from channel: 2
+sender: 1578346200, senderTime = 27
+uniform = 34, id = 32874
+waterPower = 6000
+firstSendTime = 27
+
+
+In time: 32 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 243531792, sendTime = 31, numberToRead = 1
+uniform = 107, id = 64125
+fieryness = 1
+temperature = 59
+
+
+In time: 32 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 532053585, sendTime = 31, numberToRead = 1
+uniform = 39, id = 35073
+fieryness = 1
+temperature = 53
+
+
+In time: 32 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 0
+sender: 1578346200, sendTime = 31, numberToRead = 1
+uniform = 93, id = 60795
+fieryness = 1
+temperature = 509
+
+
+In time: 32 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1578346200, sendTime = 31, numberToRead = 1
+uniform = 93, id = 60795
+fieryness = 1
+temperature = 509
+
+
+In time: 33 agent: Fire brigade (1578346200) read in createWaterPort, WaterPort from channel: 2
+sender: 1578346200, senderTime = 32
+uniform = 109, id = 64132
+waterPower = 6000
+firstSendTime = 32
+
+
+In time: 33 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1578346200, sendTime = 32, numberToRead = 2
+uniform = 22, id = 27601
+fieryness = 2
+temperature = 521
+uniform = 8, id = 19836
+fieryness = 1
+temperature = 243
+
+
+In time: 33 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 0
+sender: 1578346200, sendTime = 32, numberToRead = 2
+uniform = 22, id = 27601
+fieryness = 2
+temperature = 521
+uniform = 8, id = 19836
+fieryness = 1
+temperature = 243
+
+
+In time: 33 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1309269755, sendTime = 32, numberToRead = 1
+uniform = 68, id = 51081
+fieryness = 1
+temperature = 57
+
+
+In time: 33 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 532053585, sendTime = 32, numberToRead = 1
+uniform = 68, id = 51081
+fieryness = 1
+temperature = 57
+
+
+In time: 34 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1267436679, sendTime = 33, numberToRead = 1
+uniform = 124, id = 64688
+fieryness = 2
+temperature = 671
+
+
+In time: 35 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 0
+sender: 1578346200, sendTime = 34, numberToRead = 1
+uniform = 101, id = 64106
+fieryness = 1
+temperature = 300
+
+
+In time: 35 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1578346200, sendTime = 34, numberToRead = 1
+uniform = 101, id = 64106
+fieryness = 1
+temperature = 300
+
+
+In time: 36 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1309269755, sendTime = 35, numberToRead = 1
+uniform = 24, id = 28419
+fieryness = 1
+temperature = 50
+
+
+In time: 36 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 532053585, sendTime = 35, numberToRead = 1
+uniform = 24, id = 28419
+fieryness = 1
+temperature = 50
+
+
+In time: 37 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1267436679, sendTime = 36, numberToRead = 2
+uniform = 125, id = 64689
+fieryness = 2
+temperature = 574
+uniform = 33, id = 32573
+fieryness = 1
+temperature = 260
+
+
+In time: 37 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 0
+sender: 243531792, sendTime = 36, numberToRead = 1
+uniform = 82, id = 56516
+fieryness = 1
+temperature = 73
+
+
+In time: 37 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 243531792, sendTime = 36, numberToRead = 1
+uniform = 82, id = 56516
+fieryness = 1
+temperature = 73
+
+
+In time: 37 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1309269755, sendTime = 36, numberToRead = 1
+uniform = 82, id = 56516
+fieryness = 1
+temperature = 73
+
+
+In time: 38 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 903349416, sendTime = 37, numberToRead = 1
+uniform = 64, id = 49010
+fieryness = 1
+temperature = 54
+
+
+In time: 38 agent: Fire brigade (1578346200) read in createWaterPort, WaterPort from channel: 2
+sender: 1578346200, senderTime = 37
+uniform = 107, id = 64125
+waterPower = 6000
+firstSendTime = 37
+
+
+In time: 41 agent: Fire brigade (1578346200) read in createWaterPort, WaterPort from channel: 2
+sender: 1578346200, senderTime = 40
+uniform = 107, id = 64125
+waterPower = 6000
+firstSendTime = 40
+
+
+In time: 44 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 903349416, sendTime = 43, numberToRead = 2
+uniform = 87, id = 58841
+fieryness = 1
+temperature = 48
+uniform = 44, id = 37150
+fieryness = 2
+temperature = 557
+
+
+In time: 44 agent: Fire brigade (1578346200) read in createWaterPort, WaterPort from channel: 2
+sender: 1578346200, senderTime = 43
+uniform = 107, id = 64125
+waterPower = 6000
+firstSendTime = 43
+
+
+In time: 46 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 243531792, sendTime = 45, numberToRead = 1
+uniform = 106, id = 64122
+fieryness = 1
+temperature = 175
+
+
+In time: 46 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 0
+sender: 243531792, sendTime = 45, numberToRead = 1
+uniform = 106, id = 64122
+fieryness = 1
+temperature = 175
+
+
+In time: 48 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1267436679, sendTime = 47, numberToRead = 1
+uniform = 123, id = 64671
+fieryness = 1
+temperature = 51
+
+
+In time: 48 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 0
+sender: 1267436679, sendTime = 47, numberToRead = 1
+uniform = 123, id = 64671
+fieryness = 1
+temperature = 51
+
+
+In time: 48 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 532053585, sendTime = 47, numberToRead = 1
+uniform = 123, id = 64671
+fieryness = 1
+temperature = 51
+
+
+In time: 48 agent: Fire brigade (1578346200) read in createWaterPort, WaterPort from channel: 2
+sender: 1578346200, senderTime = 47
+uniform = 119, id = 64639
+waterPower = 6000
+firstSendTime = 47
+
+
+In time: 48 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1578346200, sendTime = 47, numberToRead = 2
+uniform = 98, id = 64090
+fieryness = 2
+temperature = 321
+uniform = 119, id = 64639
+fieryness = 1
+temperature = 248
+
+
+In time: 48 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 0
+sender: 1578346200, sendTime = 47, numberToRead = 2
+uniform = 98, id = 64090
+fieryness = 2
+temperature = 321
+uniform = 119, id = 64639
+fieryness = 1
+temperature = 248
+
+
+In time: 51 agent: Fire brigade (1578346200) read in createWaterPort, WaterPort from channel: 2
+sender: 1578346200, senderTime = 50
+uniform = 119, id = 64639
+waterPower = 6000
+firstSendTime = 50
+
+
+In time: 51 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1267436679, sendTime = 50, numberToRead = 1
+uniform = 37, id = 34423
+fieryness = 1
+temperature = 77
+
+
+In time: 52 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 0
+sender: 1578346200, sendTime = 51, numberToRead = 1
+uniform = 20, id = 27126
+fieryness = 1
+temperature = 50
+
+
+In time: 52 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1267436679, sendTime = 51, numberToRead = 1
+uniform = 20, id = 27126
+fieryness = 1
+temperature = 50
+
+
+In time: 52 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1578346200, sendTime = 51, numberToRead = 1
+uniform = 20, id = 27126
+fieryness = 1
+temperature = 50
+
+
+In time: 54 agent: Fire brigade (1578346200) read in createWaterPort, WaterPort from channel: 2
+sender: 1578346200, senderTime = 53
+uniform = 119, id = 64639
+waterPower = 6000
+firstSendTime = 53
+
+
+In time: 55 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1267436679, sendTime = 54, numberToRead = 1
+uniform = 5, id = 19274
+fieryness = 3
+temperature = 705
+
+
+In time: 57 agent: Fire brigade (1578346200) read in createWaterPort, WaterPort from channel: 2
+sender: 1578346200, senderTime = 56
+uniform = 37, id = 34423
+waterPower = 6000
+firstSendTime = 56
+
+
+In time: 60 agent: Fire brigade (1578346200) read in createWaterPort, WaterPort from channel: 2
+sender: 1578346200, senderTime = 59
+uniform = 37, id = 34423
+waterPower = 6000
+firstSendTime = 59
+
+
+In time: 61 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 903349416, sendTime = 60, numberToRead = 2
+uniform = 45, id = 37508
+fieryness = 1
+temperature = 250
+uniform = 65, id = 49118
+fieryness = 3
+temperature = 396
+
+
+In time: 61 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1578346200, sendTime = 60, numberToRead = 1
+uniform = 96, id = 64083
+fieryness = 1
+temperature = 48
+
+
+In time: 61 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 0
+sender: 1578346200, sendTime = 60, numberToRead = 1
+uniform = 96, id = 64083
+fieryness = 1
+temperature = 48
+
+
+In time: 62 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1267436679, sendTime = 61, numberToRead = 1
+uniform = 32, id = 32354
+fieryness = 3
+temperature = 977
+
+
+In time: 65 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 0
+sender: 1578346200, sendTime = 64, numberToRead = 1
+uniform = 97, id = 64089
+fieryness = 1
+temperature = 228
+
+
+In time: 65 agent: Fire brigade (1578346200) read in createAddPort, BurningBuildings
+read from channel: 2
+sender: 1578346200, sendTime = 64, numberToRead = 1
+uniform = 97, id = 64089
+fieryness = 1
+temperature = 228
+
+
+In time: 66 agent: Fire brigade (1578346200) read in createAddPort, COllapsedBuildings
+read from channel: 0
+sender: 1578346200, sendTime = 65, numberToRead = 1
+uniform = 105
+fireyness = 8
+
+

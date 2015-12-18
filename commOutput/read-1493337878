@@ -1,0 +1,527 @@
+In time: 4 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1493337878, sendTime = 3, numberToRead = 1
+uniform = 18, id = 25809
+fieryness = 1
+temperature = 92
+
+
+In time: 4 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 903349416, sendTime = 3, numberToRead = 1
+uniform = 18, id = 25809
+fieryness = 1
+temperature = 92
+
+
+In time: 4 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 0
+sender: 1493337878, sendTime = 3, numberToRead = 1
+uniform = 18, id = 25809
+fieryness = 1
+temperature = 92
+
+
+In time: 7 agent: Police force (1493337878) read in createPort, CriticalArea
+read from channel: 1
+sender: 1578346200, sendTime = 6, numberToRead = 1
+areaId = 3575
+
+
+In time: 7 agent: Police force (1493337878) read in createPort, CriticalArea
+read from channel: 1
+sender: 903349416, sendTime = 6, numberToRead = 1
+areaId = 1957
+
+
+In time: 11 agent: Police force (1493337878) read in createPort, CriticalArea
+read from channel: 1
+sender: 1578346200, sendTime = 10, numberToRead = 1
+areaId = 63076
+
+
+In time: 13 agent: Police force (1493337878) read in createPort, CriticalArea
+read from channel: 1
+sender: 903349416, sendTime = 12, numberToRead = 1
+areaId = 6076
+
+
+In time: 15 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 243531792, sendTime = 14, numberToRead = 1
+uniform = 105, id = 64113
+fieryness = 1
+temperature = 59
+
+
+In time: 15 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 903349416, sendTime = 14, numberToRead = 1
+uniform = 34, id = 32874
+fieryness = 1
+temperature = 50
+
+
+In time: 16 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1578346200, sendTime = 15, numberToRead = 1
+uniform = 41, id = 35505
+fieryness = 1
+temperature = 49
+
+
+In time: 16 agent: Police force (1493337878) read in createPort, CriticalArea
+read from channel: 1
+sender: 1578346200, sendTime = 15, numberToRead = 5
+areaId = 4616
+areaId = 7183
+areaId = 7312
+areaId = 1749
+areaId = 6076
+
+
+In time: 16 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 903349416, sendTime = 15, numberToRead = 1
+uniform = 41, id = 35505
+fieryness = 1
+temperature = 49
+
+
+In time: 17 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 0
+sender: 1493337878, sendTime = 16, numberToRead = 1
+uniform = 110, id = 64133
+fieryness = 1
+temperature = 51
+
+
+In time: 17 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1493337878, sendTime = 16, numberToRead = 1
+uniform = 110, id = 64133
+fieryness = 1
+temperature = 51
+
+
+In time: 17 agent: Police force (1493337878) read in createAddPort, ExtinguishedBuilding
+read from channel: 1
+sender: 1578346200, sendTime = 16, numberToRead = 1
+uniform = 34, id = 32874
+fieryness = 5
+temperature = 44
+
+
+In time: 18 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1578346200, sendTime = 17, numberToRead = 1
+uniform = 34, id = 32874
+fieryness = 1
+temperature = 69
+
+
+In time: 20 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1493337878, sendTime = 19, numberToRead = 1
+uniform = 100, id = 64099
+fieryness = 1
+temperature = 101
+
+
+In time: 20 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 0
+sender: 1493337878, sendTime = 19, numberToRead = 1
+uniform = 100, id = 64099
+fieryness = 1
+temperature = 101
+
+
+In time: 22 agent: Police force (1493337878) read in createPort, CriticalArea
+read from channel: 1
+sender: 1578346200, sendTime = 21, numberToRead = 2
+areaId = 5450
+areaId = 1957
+
+
+In time: 23 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1493337878, sendTime = 22, numberToRead = 1
+uniform = 83, id = 56911
+fieryness = 1
+temperature = 48
+
+
+In time: 23 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 0
+sender: 1493337878, sendTime = 22, numberToRead = 1
+uniform = 83, id = 56911
+fieryness = 1
+temperature = 48
+
+
+In time: 25 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 243531792, sendTime = 24, numberToRead = 1
+uniform = 108, id = 64126
+fieryness = 1
+temperature = 56
+
+
+In time: 25 agent: Police force (1493337878) read in createPort, CriticalArea
+read from channel: 1
+sender: 903349416, sendTime = 24, numberToRead = 1
+areaId = 5743
+
+
+In time: 26 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1309269755, sendTime = 25, numberToRead = 1
+uniform = 128, id = 65236
+fieryness = 1
+temperature = 51
+
+
+In time: 26 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 0
+sender: 1493337878, sendTime = 25, numberToRead = 1
+uniform = 109, id = 64132
+fieryness = 1
+temperature = 62
+
+
+In time: 26 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1493337878, sendTime = 25, numberToRead = 1
+uniform = 109, id = 64132
+fieryness = 1
+temperature = 62
+
+
+In time: 26 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 243531792, sendTime = 25, numberToRead = 1
+uniform = 128, id = 65236
+fieryness = 1
+temperature = 51
+
+
+In time: 27 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 532053585, sendTime = 26, numberToRead = 1
+uniform = 121, id = 64646
+fieryness = 1
+temperature = 108
+
+
+In time: 29 agent: Police force (1493337878) read in createPort, CriticalArea
+read from channel: 1
+sender: 1578346200, sendTime = 28, numberToRead = 2
+areaId = 2137
+areaId = 6768
+
+
+In time: 31 agent: Police force (1493337878) read in createPort, CriticalArea
+read from channel: 1
+sender: 903349416, sendTime = 30, numberToRead = 1
+areaId = 2290
+
+
+In time: 32 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1578346200, sendTime = 31, numberToRead = 1
+uniform = 93, id = 60795
+fieryness = 1
+temperature = 509
+
+
+In time: 32 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 532053585, sendTime = 31, numberToRead = 1
+uniform = 39, id = 35073
+fieryness = 1
+temperature = 53
+
+
+In time: 32 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 0
+sender: 1578346200, sendTime = 31, numberToRead = 1
+uniform = 93, id = 60795
+fieryness = 1
+temperature = 509
+
+
+In time: 32 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 243531792, sendTime = 31, numberToRead = 1
+uniform = 107, id = 64125
+fieryness = 1
+temperature = 59
+
+
+In time: 33 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1578346200, sendTime = 32, numberToRead = 2
+uniform = 22, id = 27601
+fieryness = 2
+temperature = 521
+uniform = 8, id = 19836
+fieryness = 1
+temperature = 243
+
+
+In time: 33 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1309269755, sendTime = 32, numberToRead = 1
+uniform = 68, id = 51081
+fieryness = 1
+temperature = 57
+
+
+In time: 33 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 0
+sender: 1578346200, sendTime = 32, numberToRead = 2
+uniform = 22, id = 27601
+fieryness = 2
+temperature = 521
+uniform = 8, id = 19836
+fieryness = 1
+temperature = 243
+
+
+In time: 33 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 532053585, sendTime = 32, numberToRead = 1
+uniform = 68, id = 51081
+fieryness = 1
+temperature = 57
+
+
+In time: 34 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1267436679, sendTime = 33, numberToRead = 1
+uniform = 124, id = 64688
+fieryness = 2
+temperature = 671
+
+
+In time: 35 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1578346200, sendTime = 34, numberToRead = 1
+uniform = 101, id = 64106
+fieryness = 1
+temperature = 300
+
+
+In time: 36 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1309269755, sendTime = 35, numberToRead = 1
+uniform = 24, id = 28419
+fieryness = 1
+temperature = 50
+
+
+In time: 36 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 532053585, sendTime = 35, numberToRead = 1
+uniform = 24, id = 28419
+fieryness = 1
+temperature = 50
+
+
+In time: 37 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1267436679, sendTime = 36, numberToRead = 2
+uniform = 125, id = 64689
+fieryness = 2
+temperature = 574
+uniform = 33, id = 32573
+fieryness = 1
+temperature = 260
+
+
+In time: 37 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1309269755, sendTime = 36, numberToRead = 1
+uniform = 82, id = 56516
+fieryness = 1
+temperature = 73
+
+
+In time: 37 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 243531792, sendTime = 36, numberToRead = 1
+uniform = 82, id = 56516
+fieryness = 1
+temperature = 73
+
+
+In time: 38 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 903349416, sendTime = 37, numberToRead = 1
+uniform = 64, id = 49010
+fieryness = 1
+temperature = 54
+
+
+In time: 38 agent: Police force (1493337878) read in createPort, CriticalArea
+read from channel: 1
+sender: 903349416, sendTime = 37, numberToRead = 2
+areaId = 1497
+areaId = 4079
+
+
+In time: 39 agent: Police force (1493337878) read in createPort, CriticalArea
+read from channel: 1
+sender: 1578346200, sendTime = 38, numberToRead = 2
+areaId = 1497
+areaId = 4079
+
+
+In time: 40 agent: Police force (1493337878) read in createPort, CriticalArea
+read from channel: 1
+sender: 903349416, sendTime = 39, numberToRead = 1
+areaId = 5683
+
+
+In time: 41 agent: Police force (1493337878) read in createPort, CriticalArea
+read from channel: 1
+sender: 1578346200, sendTime = 40, numberToRead = 1
+areaId = 5683
+
+
+In time: 44 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 903349416, sendTime = 43, numberToRead = 2
+uniform = 87, id = 58841
+fieryness = 1
+temperature = 48
+uniform = 44, id = 37150
+fieryness = 2
+temperature = 557
+
+
+In time: 46 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 243531792, sendTime = 45, numberToRead = 1
+uniform = 106, id = 64122
+fieryness = 1
+temperature = 175
+
+
+In time: 48 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 532053585, sendTime = 47, numberToRead = 1
+uniform = 123, id = 64671
+fieryness = 1
+temperature = 51
+
+
+In time: 48 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1578346200, sendTime = 47, numberToRead = 2
+uniform = 98, id = 64090
+fieryness = 2
+temperature = 321
+uniform = 119, id = 64639
+fieryness = 1
+temperature = 248
+
+
+In time: 48 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1267436679, sendTime = 47, numberToRead = 1
+uniform = 123, id = 64671
+fieryness = 1
+temperature = 51
+
+
+In time: 51 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1267436679, sendTime = 50, numberToRead = 1
+uniform = 37, id = 34423
+fieryness = 1
+temperature = 77
+
+
+In time: 52 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1267436679, sendTime = 51, numberToRead = 1
+uniform = 20, id = 27126
+fieryness = 1
+temperature = 50
+
+
+In time: 52 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 0
+sender: 1267436679, sendTime = 51, numberToRead = 1
+uniform = 20, id = 27126
+fieryness = 1
+temperature = 50
+
+
+In time: 52 agent: Police force (1493337878) read in createAddPort, COllapsedBuildings
+read from channel: 0
+sender: 1267436679, sendTime = 51, numberToRead = 1
+uniform = 18
+fireyness = 8
+
+
+In time: 52 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1578346200, sendTime = 51, numberToRead = 1
+uniform = 20, id = 27126
+fieryness = 1
+temperature = 50
+
+
+In time: 55 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 0
+sender: 1267436679, sendTime = 54, numberToRead = 1
+uniform = 5, id = 19274
+fieryness = 3
+temperature = 705
+
+
+In time: 55 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1267436679, sendTime = 54, numberToRead = 1
+uniform = 5, id = 19274
+fieryness = 3
+temperature = 705
+
+
+In time: 61 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1578346200, sendTime = 60, numberToRead = 1
+uniform = 96, id = 64083
+fieryness = 1
+temperature = 48
+
+
+In time: 61 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 903349416, sendTime = 60, numberToRead = 2
+uniform = 45, id = 37508
+fieryness = 1
+temperature = 250
+uniform = 65, id = 49118
+fieryness = 3
+temperature = 396
+
+
+In time: 62 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1267436679, sendTime = 61, numberToRead = 1
+uniform = 32, id = 32354
+fieryness = 3
+temperature = 977
+
+
+In time: 65 agent: Police force (1493337878) read in createAddPort, BurningBuildings
+read from channel: 1
+sender: 1578346200, sendTime = 64, numberToRead = 1
+uniform = 97, id = 64089
+fieryness = 1
+temperature = 228
+
+

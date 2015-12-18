@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project basedir="." default="build" name="statable">
+    <property environment="env"/>
+    <path id="statable.classpath">
+        <pathelement location="bin"/>
+    	<pathelement location="jars/clear.jar"/>
+    	<pathelement location="jars/collapse.jar"/>
+    	<pathelement location="jars/commons-logging-1.1.1.jar"/>
+    	<pathelement location="jars/dom4j.jar"/>
+    	<pathelement location="jars/gis2.jar"/>
+    	<pathelement location="jars/handy.jar"/>
+    	<pathelement location="jars/human.jar"/>
+    	<pathelement location="jars/ignition.jar"/>
+    	<pathelement location="jars/javaGeom-0.9.0.jar"/>
+    	<pathelement location="jars/jaxen-1.1.1.jar"/>
+    	<pathelement location="jars/jcommon-1.0.16.jar"/>
+    	<pathelement location="jars/jfreechart-1.0.13.jar"/>
+    	<pathelement location="jars/jscience-4.3.jar"/>
+    	<pathelement location="jars/jsi-1.0b2p1.jar"/>
+    	<pathelement location="jars/jts-1.11.jar"/>
+    	<pathelement location="jars/junit-4.5.jar"/>
+    	<pathelement location="jars/kernel.jar"/>
+    	<pathelement location="jars/log4j-1.2.15.jar"/>
+    	<pathelement location="jars/maps.jar"/>
+    	<pathelement location="jars/misc.jar"/>
+    	<pathelement location="jars/rescuecore2.jar"/>
+    	<pathelement location="jars/resq-fire.jar"/>
+    	<pathelement location="jars/sample.jar"/>
+    	<pathelement location="jars/standard.jar"/>
+    	<pathelement location="jars/traffic3.jar"/>
+    	<pathelement location="jars/trove-0.1.8.jar"/>
+    	<pathelement location="jars/uncommons-maths-1.2.jar"/>
+    	<pathelement location="jars/rescuecore.jar"/>
+    	<pathelement location="jars/xml-0.0.6.jar"/>
+    </path>
+    <target name="init">
+        <mkdir dir="bin"/>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="src">
+                <exclude name="**/*.launch"/>
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="clean">
+        <delete dir="bin"/>
+    </target>
+    <target depends="clean" name="cleanall"/>
+    <target depends="build-subprojects,build-project" name="build"/>
+    <target name="build-subprojects"/>
+    <target depends="init" name="build-project">
+        <echo message="${ant.project.name}: ${ant.file}"/>
+        <javac debug="true" debuglevel="lines,source" destdir="bin" includeantruntime="false">
+            <src path="src"/>
+            <classpath refid="statable.classpath"/>
+        </javac>
+    </target>
+</project>
